@@ -1,4 +1,6 @@
-# CSS Positioning Lab
+![](https://i.imgur.com/1QgrNNw.png)
+
+# CSS | Instagram Clone
 
 ## Introduction
 
@@ -49,6 +51,6 @@ Please find a screenshot of the expected result below:
 
 ![Instagram lab Screenshot](https://i.imgur.com/DQ9fk1u.png)
 
-## Additional Resources
+## Extra Resources
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
